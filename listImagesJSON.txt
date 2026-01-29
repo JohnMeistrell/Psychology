@@ -77,6 +77,16 @@ const mapVideoDetails = [
 ["Mind","2eIG4WloTao","The truth about rejection: how to handle getting turned down","PsycHacks","https://i.ytimg.com/vi/2eIG4WloTao/hqdefault.jpg","https://www.youtube.com/watch?v=2eIG4WloTao"] ,
 ["Mind","chjjjjObX4GS0k","Unleash the Mom Guilt | Tiffany N. Stallings | TEDxWilmingtonLive","TEDx Talks","https://i.ytimg.com/vi/ch-ObX4GS0k/hqdefault.jpg","https://www.youtube.com/watch?v=ch-ObX4GS0k"] ,
 
+
+["Date", "KJ-plDAsKDg", "Dating - How Women Start Missing Man y Took For Granted - Female Psychology", "Laurin Ponce Advice", "https://i.ytimg.com/vi/KJ-plDAsKDg/hqdefault.jpg", "https://www.youtube.com/watch?v=KJ-plDAsKDg"] ,
+["Date", "69yuBltvHpg", "Heidi Priebe - Good Faith vs Bad Faith Conflict How to Tell the Difference And Change Dynamic - GOOD", "Heidi Priebe", "https://i.ytimg.com/vi/69yuBltvHpg/hqdefault.jpg", "https://www.youtube.com/watch?v=69yuBltvHpg"] ,
+["Mind", "Cn3gkg4EfaY", "Jeff Allen - Activate Your PSYCHIC POWERS  Your DREAM LIFE - Like This SKIP", "Wisdom From North", "https://i.ytimg.com/vi/Cn3gkg4EfaY/hqdefault.jpg", "https://www.youtube.com/watch?v=Cn3gkg4EfaY"] ,
+["Mind", "d4TkXN5Js8E", "Jeff Allen - Guided Meditation To Open Your Heart Up To Infinite Potential with Jeffrey Allen", "Mindvalley ", "https://i.ytimg.com/vi/d4TkXN5Js8E/hqdefault.jpg", "https://www.youtube.com/watch?v=d4TkXN5Js8E"] ,
+["Mind", "_8iZ2K3Sfco", "Jeff Allen - What Do You Really Want in Life - SKIP", "The Jason Marc Campbell Podcast", "https://i.ytimg.com/vi/_8iZ2K3Sfco/hqdefault.jpg", "https://www.youtube.com/watch?v=_8iZ2K3Sfco"] ,
+["Meditate", "vt5q3TAE974", "Tara Brach - Releasing the Habits that Imprison Your Spirit with Tara Brach Part 1", "Tara Brach", "https://i.ytimg.com/vi/vt5q3TAE974/hqdefault.jpg", "https://www.youtube.com/watch?v=vt5q3TAE974"] ,
+["Meditate", "j5f859MuqwI", "Tara Brach - Three Steps of Letting Go with Tara Brach", "Tara Brach", "https://i.ytimg.com/vi/j5f859MuqwI/hqdefault.jpg", "https://www.youtube.com/watch?v=j5f859MuqwI"] ,
+["Meditate", "l7NhDiUZhfo", "WHY Youre NOT Happy How to CHANGE Your Emotional Habits", "Tips from a Therapist", "https://i.ytimg.com/vi/l7NhDiUZhfo/hqdefault.jpg", "https://www.youtube.com/watch?v=l7NhDiUZhfo"] ,
+
 ["Morley","fZty0e_jR2g","Charlie Morley TV Documentary","Charlie Morley - Lucid Dreaming Teacher","https://i.ytimg.com/vi/fZty0e_jR2g/hqdefault.jpg","https://www.youtube.com/watch?v=fZty0e_jR2g"] ,
 ["Morley","GT70TiLFym4","PTSD Treatment for Veterans Documentary with Charlie Morley","Charlie Morley - Lucid Dreaming Teacher","https://i.ytimg.com/vi/GT70TiLFym4/hqdefault.jpg","https://www.youtube.com/watch?v=GT70TiLFym4"] ,
 
