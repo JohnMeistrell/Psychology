@@ -19,12 +19,27 @@
 const mapVideoDetails = [ 
 /* ['TagClass', 'ID' , 'Title' , 'Author' , 'Image' , 'URL' ], */
 
+["NEW", "qyTkbg-u6j8", "Emotional Self-Intimacy: What It Is And How To Foster It", "Heidi Priebe", "https://i.ytimg.com/vi/qyTkbg-u6j8/hqdefault.jpg", "https://www.youtube.com/watch?v=qyTkbg-u6j8"] ,
+["NEW", "U3OMMT0SKFM", "Emotional MATURITY: 5 Things We Mistake For It And One That Cant Be Faked", "Heidi Priebe", "https://i.ytimg.com/vi/U3OMMT0SKFM/hqdefault.jpg", "https://www.youtube.com/watch?v=U3OMMT0SKFM"] ,
+["NEW", "P-5QfRy_8s8", "When Healing Worthiness Wound Still Leaves You Unhappy", "Heidi Priebe", "https://i.ytimg.com/vi/P-5QfRy_8s8/hqdefault.jpg", "https://www.youtube.com/watch?v=P-5QfRy_8s8"] ,
+["NEW", "nrsyeNF6VSo", "5 Traits That Make People Hard To Manipulate And How To Cultivate m", "Heidi Priebe", "https://i.ytimg.com/vi/nrsyeNF6VSo/hqdefault.jpg", "https://www.youtube.com/watch?v=nrsyeNF6VSo"] ,
+["NEW", "qED1dS14tlY", "Ick: Why Sudden Disgust Comes Online In Relationships & What We Can Do About It", "Heidi Priebe", "https://i.ytimg.com/vi/qED1dS14tlY/hqdefault.jpg", "https://www.youtube.com/watch?v=qED1dS14tlY"] ,
+["NEW", "jRNhLHQ45D0", "When Vulnerability BACKFIRES: What Goes Wrong & How To Build Intimacy Without Losing Your Boundaries", "Heidi Priebe", "https://i.ytimg.com/vi/jRNhLHQ45D0/hqdefault.jpg", "https://www.youtube.com/watch?v=jRNhLHQ45D0"] ,
+["NEW", "W7HCJoHVmf0", "Repetition Compulsion: Why We Recreate Childhood Dynamics In Our Adult Relationships & How To Stop", "Heidi Priebe", "https://i.ytimg.com/vi/W7HCJoHVmf0/hqdefault.jpg", "https://www.youtube.com/watch?v=W7HCJoHVmf0"] ,
+["NEW", "aepsovA3iNE", "Avoid Toxic Relationships By Setting se 5 Non-Negotiable Self-Boundaries", "Heidi Priebe", "https://i.ytimg.com/vi/aepsovA3iNE/hqdefault.jpg", "https://www.youtube.com/watch?v=aepsovA3iNE"] ,
+["NEW", "qyTkbg-u6j8\x1A", "Emotional Self-Intimacy: What It Is And How To Foster It", "Heidi Priebe", "https://i.ytimg.com/vi/qyTkbg-u6j8/hqdefault.jpg", "https://www.youtube.com/watch?v=qyTkbg-u6j8"] ,
+["NEW", "jRNhLHQ45D0", "When Vulnerability BACKFIRES: What Goes Wrong & How To Build Intimacy Without Losing Your Boundaries", "Heidi Priebe", "https://i.ytimg.com/vi/jRNhLHQ45D0/hqdefault.jpg", "https://www.youtube.com/watch?v=jRNhLHQ45D0"] ,
+["NEW", "aepsovA3iNE", "Avoid Toxic Relationships By Setting se 5 Non-Negotiable Self-Boundaries", "Heidi Priebe", "https://i.ytimg.com/vi/aepsovA3iNE/hqdefault.jpg", "https://www.youtube.com/watch?v=aepsovA3iNE"] ,
+
+
 ["CoDa","s6WYVRHaAPU","2020 CoDA Convention Jay G. Compliance and Boundaries","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/s6WYVRHaAPU/hqdefault.jpg","https://www.youtube.com/watch?v=s6WYVRHaAPU"] ,
-["CoDa","UTO74hfMjjjjwc","2020 CoDA Convention Liz Embracing Joy The12 Promises","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/UTO74hfM-wc/hqdefault.jpg","https://www.youtube.com/watch?v=UTO74hfM-wc"] ,
+["CoDa","UTO74hfMjwc","2020 CoDA Convention Liz Embracing Joy The12 Promises","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/UTO74hfM-wc/hqdefault.jpg","https://www.youtube.com/watch?v=UTO74hfM-wc"] ,
 ["CoDa","7DQTUGrK2T0","2020 Convention James B 12 Steps To A Spiritual Awakening","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/7DQTUGrK2T0/hqdefault.jpg","https://www.youtube.com/watch?v=7DQTUGrK2T0"] ,
 ["CoDa","1zjjjj7cNKPu_s","2021 CoDA Convention: Frankie R. - Living Centered Through Freedom From Self","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/1z-7cNKPu_s/hqdefault.jpg","https://www.youtube.com/watch?v=1z-7cNKPu_s"] ,
 ["CoDa","zmPNsUiSDk8","2021 CoDA Convention: Jeremy - Tradition 3","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/zmPNsUiSDk8/hqdefault.jpg","https://www.youtube.com/watch?v=zmPNsUiSDk8"] ,
 ["CoDa","VxiT0VTSVxU","2021 CoDA Convention; JW - Steps 6 and 7 (REALY GOOD)","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/VxiT0VTSVxU/hqdefault.jpg","https://www.youtube.com/watch?v=VxiT0VTSVxU"] ,
+["Top10","VxiT0VTSVxU","2021 CoDA Convention; JW - Steps 6 and 7 (REALY GOOD)","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/VxiT0VTSVxU/hqdefault.jpg","https://www.youtube.com/watch?v=VxiT0VTSVxU"] ,
+
 ["CoDa","4VkNYuGTiro","2021 CoDA Internet Retreat: Judi P - Prayer Circles: Step 11","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/4VkNYuGTiro/hqdefault.jpg","https://www.youtube.com/watch?v=4VkNYuGTiro"] ,
 ["CoDa","pW21V5gyUWw","2021 CoDA Internet Retreat: Leslie P - Feeling Safe In An Unsafe World","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/pW21V5gyUWw/hqdefault.jpg","https://www.youtube.com/watch?v=pW21V5gyUWw"] ,
 ["CoDa","xfuogvi8kgk","2024 Sponsorship Workshop - English Language + others","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/xfuogvi8kgk/hqdefault.jpg","https://www.youtube.com/watch?v=xfuogvi8kgk"] ,
@@ -46,6 +61,8 @@ const mapVideoDetails = [
 ["Autism", "g-B9y4yeqsw", "Dating Tips for Autistic People When to Drop Mask", "Autism From The Inside", "https://i.ytimg.com/vi/g-B9y4yeqsw/hqdefault.jpg", "https://www.youtube.com/watch?v=g-B9y4yeqsw"] ,
 ["Autism", "J-smnLcBBPA", "5 Autistic Traits in Social Gatherings", "Autism From The Inside", "https://i.ytimg.com/vi/J-smnLcBBPA/hqdefault.jpg", "https://www.youtube.com/watch?v=J-smnLcBBPA"] ,
 ["Autism", "jV8HzI2dMKY", "Autism and Anger Management why do we sometimes explode or implode - Patrons Choice", "Autism From The Inside", "https://i.ytimg.com/vi/jV8HzI2dMKY/hqdefault.jpg", "https://www.youtube.com/watch?v=jV8HzI2dMKY"] ,
+["Top10", "jV8HzI2dMKY", "Autism and Anger Management why do we sometimes explode or implode - Patrons Choice", "Autism From The Inside", "https://i.ytimg.com/vi/jV8HzI2dMKY/hqdefault.jpg", "https://www.youtube.com/watch?v=jV8HzI2dMKY"] ,
+
 ["Autism", "o8mhr1PcZ4Q", "7 Signs of Autism in Men DSM-5 Symptoms of Autism-Aspergers in High Functioning Autistic Adults", "Autism From The Inside", "https://i.ytimg.com/vi/o8mhr1PcZ4Q/hqdefault.jpg", "https://www.youtube.com/watch?v=o8mhr1PcZ4Q"] ,
 ["Autism", "m6T84uRepNU", "Jobs for Aspies Good Jobs for People With Aspergers", "Autism From The Inside", "https://i.ytimg.com/vi/m6T84uRepNU/hqdefault.jpg", "https://www.youtube.com/watch?v=m6T84uRepNU"] ,
 ["Autism", "u1Z91VEoAUc", "Five Tips for Over Explainers Autism and Over Explaining", "Autism From The Inside", "https://i.ytimg.com/vi/u1Z91VEoAUc/hqdefault.jpg", "https://www.youtube.com/watch?v=u1Z91VEoAUc"] ,
@@ -85,7 +102,11 @@ const mapVideoDetails = [
 ["Mind", "_8iZ2K3Sfco", "Jeff Allen - What Do You Really Want in Life - SKIP", "The Jason Marc Campbell Podcast", "https://i.ytimg.com/vi/_8iZ2K3Sfco/hqdefault.jpg", "https://www.youtube.com/watch?v=_8iZ2K3Sfco"] ,
 ["Meditate", "vt5q3TAE974", "Tara Brach - Releasing the Habits that Imprison Your Spirit with Tara Brach Part 1", "Tara Brach", "https://i.ytimg.com/vi/vt5q3TAE974/hqdefault.jpg", "https://www.youtube.com/watch?v=vt5q3TAE974"] ,
 ["Meditate", "j5f859MuqwI", "Tara Brach - Three Steps of Letting Go with Tara Brach", "Tara Brach", "https://i.ytimg.com/vi/j5f859MuqwI/hqdefault.jpg", "https://www.youtube.com/watch?v=j5f859MuqwI"] ,
-["Meditate", "l7NhDiUZhfo", "WHY Youre NOT Happy How to CHANGE Your Emotional Habits", "Tips from a Therapist", "https://i.ytimg.com/vi/l7NhDiUZhfo/hqdefault.jpg", "https://www.youtube.com/watch?v=l7NhDiUZhfo"] ,
+["Meditate", "l7NhDiUZhfo", "WHY Youre NOT Happy How to CHANGE Your Emotional Habits - GOOD Feel Body Focus Make Sence", "Tips from a Therapist", "https://i.ytimg.com/vi/l7NhDiUZhfo/hqdefault.jpg", "https://www.youtube.com/watch?v=l7NhDiUZhfo"] ,
+
+["Top10", "vt5q3TAE974", "Tara Brach - Releasing the Habits that Imprison Your Spirit with Tara Brach Part 1", "Tara Brach", "https://i.ytimg.com/vi/vt5q3TAE974/hqdefault.jpg", "https://www.youtube.com/watch?v=vt5q3TAE974"] ,
+["Top10", "j5f859MuqwI", "Tara Brach - Three Steps of Letting Go with Tara Brach", "Tara Brach", "https://i.ytimg.com/vi/j5f859MuqwI/hqdefault.jpg", "https://www.youtube.com/watch?v=j5f859MuqwI"] ,
+["Top10", "l7NhDiUZhfo", "WHY Youre NOT Happy How to CHANGE Your Emotional Habits - GOOD Feel Body Focus Make Sence", "Tips from a Therapist", "https://i.ytimg.com/vi/l7NhDiUZhfo/hqdefault.jpg", "https://www.youtube.com/watch?v=l7NhDiUZhfo"] ,
 
 ["Morley","fZty0e_jR2g","Charlie Morley TV Documentary","Charlie Morley - Lucid Dreaming Teacher","https://i.ytimg.com/vi/fZty0e_jR2g/hqdefault.jpg","https://www.youtube.com/watch?v=fZty0e_jR2g"] ,
 ["Morley","GT70TiLFym4","PTSD Treatment for Veterans Documentary with Charlie Morley","Charlie Morley - Lucid Dreaming Teacher","https://i.ytimg.com/vi/GT70TiLFym4/hqdefault.jpg","https://www.youtube.com/watch?v=GT70TiLFym4"] ,
