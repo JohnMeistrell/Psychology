@@ -19,6 +19,22 @@
 const mapVideoDetails = [ 
 /* ['TagClass', 'ID' , 'Title' , 'Author' , 'Image' , 'URL' ], */
 
+  ["TRobbins", "NEKHOzrasdg", "Tony Robbins Helps o Deal With Low Self Worth", "Theo Von Clips", "https://i.ytimg.com/vi/NEKHOzrasdg/hqdefault.jpg", "https://www.youtube.com/watch?v=NEKHOzrasdg"]
+, ["TRobbins", "mC6pUlcDq6Q", "Play to the Avoidants Fantasies and y Will Never Leave You - Tony Robbins Motivational Speech", "MotiveVibe", "https://i.ytimg.com/vi/mC6pUlcDq6Q/hqdefault.jpg", "https://www.youtube.com/watch?v=mC6pUlcDq6Q"]
+, ["TRobbins", "tL3Rj-1OmRA", "This Destroys RELATIONSHIPS & How You Can Avoid It", "Tony Robbins", "https://i.ytimg.com/vi/tL3Rj-1OmRA/hqdefault.jpg", "https://www.youtube.com/watch?v=tL3Rj-1OmRA"]
+, ["TRobbins", "QOLzURdopV4", "How To Shift Your Fear of Not Being Enough - Tony Robbins FULL Intervention", "Tony Robbins", "https://i.ytimg.com/vi/QOLzURdopV4/hqdefault.jpg", "https://www.youtube.com/watch?v=QOLzURdopV4"]
+, ["TRobbins", "92aGhx3l5TA", "How to let go of your relationship - Tony Robbins Podcast", "Tony Robbins", "https://i.ytimg.com/vi/92aGhx3l5TA/hqdefault.jpg", "https://www.youtube.com/watch?v=92aGhx3l5TA"]
+, ["TRobbins", "-0UrQXWj-m8", "9 Things Women Should Not Do With a Man! - THE BEST POWERFUL MOTIVATIONAL SPEECH TONY ROBBINS --", "MotiveVibe", "https://i.ytimg.com/vi/-0UrQXWj-m8/hqdefault.jpg", "https://www.youtube.com/watch?v=-0UrQXWj-m8"]
+, ["TRobbins", "xWuy7yQgoxg", "Tony Robbins Motivational Speeches 2025 - How To Overcome Anxiety Depression and Fear", "Daily Motivation Today", "https://i.ytimg.com/vi/xWuy7yQgoxg/hqdefault.jpg", "https://www.youtube.com/watch?v=xWuy7yQgoxg"]
+, ["TRobbins", "CAo6UaKBYwI", "7 Keys of Love and Relationships - Tony & Sage Robbins", "Tony Robbins", "https://i.ytimg.com/vi/CAo6UaKBYwI/hqdefault.jpg", "https://www.youtube.com/watch?v=CAo6UaKBYwI"]
+, ["TRobbins", "U99X10Y4SX8", "A WOMAN WITH NO FRIENDS ! --THE BEST BY MOTIVATIONAL SPEECH TONY ROBBINS--", "MotiveVibe", "https://i.ytimg.com/vi/U99X10Y4SX8/hqdefault.jpg", "https://www.youtube.com/watch?v=U99X10Y4SX8"]
+, ["TRobbins", "oq-13UXCsOk", "Rebuild Trust and Connection in Any Relationship - Tony Robbins Intervention", "Tony Robbins", "https://i.ytimg.com/vi/oq-13UXCsOk/hqdefault.jpg", "https://www.youtube.com/watch?v=oq-13UXCsOk"]
+, ["TRobbins", "oq-13UXCsOk", "Rebuild Trust and Connection in Any Relationship - Tony Robbins Intervention", "Tony Robbins", "https://i.ytimg.com/vi/oq-13UXCsOk/hqdefault.jpg", "https://www.youtube.com/watch?v=oq-13UXCsOk"]
+, ["TRobbins", "92aGhx3l5TA", "How to let go of your relationship - Tony Robbins Podcast", "Tony Robbins", "https://i.ytimg.com/vi/92aGhx3l5TA/hqdefault.jpg", "https://www.youtube.com/watch?v=92aGhx3l5TA"]
+, ["TRobbins", "-0UrQXWj-m8", "9 Things Women Should Not Do With a Man! - THE BEST POWERFUL MOTIVATIONAL SPEECH TONY ROBBINS --", "MotiveVibe", "https://i.ytimg.com/vi/-0UrQXWj-m8/hqdefault.jpg", "https://www.youtube.com/watch?v=-0UrQXWj-m8"]
+, ["TRobbins", "oq-13UXCsOk", "Rebuild Trust and Connection in Any Relationship - Tony Robbins Intervention", "Tony Robbins", "https://i.ytimg.com/vi/oq-13UXCsOk/hqdefault.jpg", "https://www.youtube.com/watch?v=oq-13UXCsOk"]
+,
+
 ["NEW", "qyTkbg-u6j8", "Emotional Self-Intimacy: What It Is And How To Foster It", "Heidi Priebe", "https://i.ytimg.com/vi/qyTkbg-u6j8/hqdefault.jpg", "https://www.youtube.com/watch?v=qyTkbg-u6j8"] ,
 ["NEW", "U3OMMT0SKFM", "Emotional MATURITY: 5 Things We Mistake For It And One That Cant Be Faked", "Heidi Priebe", "https://i.ytimg.com/vi/U3OMMT0SKFM/hqdefault.jpg", "https://www.youtube.com/watch?v=U3OMMT0SKFM"] ,
 ["NEW", "P-5QfRy_8s8", "When Healing Worthiness Wound Still Leaves You Unhappy", "Heidi Priebe", "https://i.ytimg.com/vi/P-5QfRy_8s8/hqdefault.jpg", "https://www.youtube.com/watch?v=P-5QfRy_8s8"] ,
@@ -30,7 +46,6 @@ const mapVideoDetails = [
 ["NEW", "qyTkbg-u6j8\x1A", "Emotional Self-Intimacy: What It Is And How To Foster It", "Heidi Priebe", "https://i.ytimg.com/vi/qyTkbg-u6j8/hqdefault.jpg", "https://www.youtube.com/watch?v=qyTkbg-u6j8"] ,
 ["NEW", "jRNhLHQ45D0", "When Vulnerability BACKFIRES: What Goes Wrong & How To Build Intimacy Without Losing Your Boundaries", "Heidi Priebe", "https://i.ytimg.com/vi/jRNhLHQ45D0/hqdefault.jpg", "https://www.youtube.com/watch?v=jRNhLHQ45D0"] ,
 ["NEW", "aepsovA3iNE", "Avoid Toxic Relationships By Setting se 5 Non-Negotiable Self-Boundaries", "Heidi Priebe", "https://i.ytimg.com/vi/aepsovA3iNE/hqdefault.jpg", "https://www.youtube.com/watch?v=aepsovA3iNE"] ,
-
 
 ["CoDa","s6WYVRHaAPU","2020 CoDA Convention Jay G. Compliance and Boundaries","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/s6WYVRHaAPU/hqdefault.jpg","https://www.youtube.com/watch?v=s6WYVRHaAPU"] ,
 ["CoDa","UTO74hfMjwc","2020 CoDA Convention Liz Embracing Joy The12 Promises","Co-Dependents Anonymous (CoDA) and CoDAteen","https://i.ytimg.com/vi/UTO74hfM-wc/hqdefault.jpg","https://www.youtube.com/watch?v=UTO74hfM-wc"] ,
